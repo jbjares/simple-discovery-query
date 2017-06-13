@@ -1,0 +1,35 @@
+{
+  "name": "node-red-contrib-simple-discovery-query",
+  "version": "0.0.1",
+  "description": "The node aims to create queries on discovery without complexity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "personal",
+    "htmltotext",
+    "htmltotext-watson",
+    "discovery",
+    "query",
+    "remove",
+    "html",
+    "watson",
+    "conversation"
+  ],
+  "dependencies": {
+    "emoji-regex": "^6.4.2",
+    "emoji-replace": "^1.0.1",
+    "emoji-strip": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbjares/simple-discovery-query.git"
+  },
+  "author": "Joao Bosco Jares",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jbjares/simple-discovery-query/issues"
+  },
+  "homepage": "https://github.com/jbjares/simple-discovery-query#readme"
+}
